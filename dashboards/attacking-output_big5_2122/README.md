@@ -22,7 +22,7 @@ Evaluar el rendimiento ofensivo comparando **goles + asistencias reales** con **
 - **Bar chart**: top jugadores por sobre-rendimiento  
 - **Donut chart**: proporción creación vs finalización  
 
-![Preview](preview.png)
+![Preview](https://github.com/manuferrod/football-analytics-portfolio/blob/44add75828d02d103d03e2e1a2acafce925152d5/dashboards/attacking-output_big5_2122/preview.jpg)
 
 ---
 
