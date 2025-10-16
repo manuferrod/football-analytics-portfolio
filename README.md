@@ -1,2 +1,2 @@
 # football-analytics-portfolio
-Proyectos y dashboards de Fútbol Analytics
+Proyectos y dashboards de Football Analytics
